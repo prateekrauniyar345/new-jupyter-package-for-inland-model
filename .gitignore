@@ -1,0 +1,17 @@
+# Ignore all CSV files
+# *.csv
+# ignore everything from the raster folder
+rasters/*
+# Ignore all raster files (common extensions)
+*.tif
+*.tiff
+*.img
+*.grd
+*.asc
+*.tfw
+*.tif.aux.xml
+*.tif.ovr
+*.tif.xml
+.ovr
+.xml
+.tfw
